@@ -1,0 +1,15 @@
+[book]
+title = "MAEXTRO"
+authors = ["Luca Moreno"]
+description = "Do zero à primeira renda digital com IA — curso completo em PT-BR"
+src = "src"
+language = "pt"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+no-section-label = true
+sidebar-header-nav = false
+additional-css = ["custom.css"]

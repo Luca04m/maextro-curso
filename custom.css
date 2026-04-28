@@ -1,0 +1,4 @@
+/* Oculta âncoras de heading da página que aparecem como sub-itens na sidebar */
+.chapter li.chapter-item.section {
+    display: none;
+}
