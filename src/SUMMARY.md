@@ -1,6 +1,7 @@
 # Sumário
 
 [Introdução](introducao.md)
+[Rotina — Adonai](rotina-adonai.md)
 
 ---
 
